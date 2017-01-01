@@ -1,0 +1,85 @@
+{
+    "categories": [{
+                   "category_id": "274",
+                   "category_name": "Tattoo Wolves",
+                   "category_thumbnail": "274.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip03/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Geometric Wolf Head",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cartoon Wolf Tattoo",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Rhythm of Life",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Wolf and Moon",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Wolf Paw Tattoo",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Howling Wolf",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Black Wolf",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Tribal Wolf Tattoo",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Chibi Wolf",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Wolf Head Tattoo",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Dreamcatcher",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Lady Wolf",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Wolf Tattoo Design",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Angel Wolf Tattoo",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Indian Wolf",
+                              "anime_step":11
+                              }
+                              ]
+                   }]
+}

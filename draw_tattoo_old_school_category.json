@@ -1,0 +1,85 @@
+{
+    "categories": [{
+                   "category_id": "273",
+                   "category_name": "Tattoo Old School",
+                   "category_thumbnail": "273.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip03/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Dagger",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Butterfly",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Woman",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Swallow",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Anchor",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Guitar",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Skull",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Cherry",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Icecream",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Owl",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Lighthouse in a Bottle",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Clossed Heart",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Rose",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Diamond",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "House",
+                              "anime_step":14
+                              }
+                              ]
+                   }]
+}

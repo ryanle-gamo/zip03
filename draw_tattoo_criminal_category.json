@@ -1,0 +1,85 @@
+{
+    "categories": [{
+                   "category_id": "271",
+                   "category_name": "Tattoo Criminal",
+                   "category_thumbnail": "271.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip03/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Rose in Hands",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Barber Rose",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Spider in the Web",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Rose and Dagger",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Dagger in the Skull",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Bones",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Ammunition",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Mexican Revolver",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Skull and Pistols",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Cross",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Faith",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Gangster",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Knuckles",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Criminal Star",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Gang Sign",
+                              "anime_step":7
+                              }
+                              ]
+                   }]
+}

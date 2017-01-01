@@ -1,0 +1,85 @@
+{
+    "categories": [{
+                   "category_id": "281",
+                   "category_name": "Tattoo Minimalist",
+                   "category_thumbnail": "281.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip03/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Cute Lamd",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Minimalist Wave",
+                              "anime_step":4
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Simple Cat",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Tiny Penguin",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Tree Branch",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Cat Tracks",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Cute Elephant",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Adorable Whale",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Cat Back",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Minimalist Giraffe",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Graphic Branch",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Paper Plane",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Graphic Deer",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Cute Cat",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Baby Whale",
+                              "anime_step":8
+                              }
+                              ]
+                   }]
+}
